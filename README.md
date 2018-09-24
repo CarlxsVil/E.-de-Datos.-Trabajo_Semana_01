@@ -104,6 +104,7 @@ public class Figura implements FiguraInterface {
 
         }
 
+
         return area;
     }
 
